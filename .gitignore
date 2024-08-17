@@ -65,7 +65,6 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
-*.cache
 *.ncrunch*
 *.dotCover
 *.coverage
